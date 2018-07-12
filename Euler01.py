@@ -1,11 +1,9 @@
-
 # coding: utf-8
 
-# ### Problem 1 
-# #### Multiples of 3 and 5
+# Problem 1 
+# Multiples of 3 and 5
 
 # In[2]:
-
 
 a, b = 3, 5
 
